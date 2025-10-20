@@ -1,19 +1,9 @@
-# 🚀 My Awesome Project
+# URL👾
 
-Proyek ini adalah aplikasi web sederhana untuk mengelola tugas harian.
+Proyek ini adalah url web untuk melihat informasi pribadi seseorang yang bocor🔓
 
-![GitHub stars](https://img.shields.io/github/stars/username/repo-name)
-![GitHub forks](https://img.shields.io/github/forks/username/repo-name)
-![License](https://img.shields.io/github/license/username/repo-name)
+## URL 1 [ Yuna ]
+- 
 
-## ✨ Fitur
-- 📝 Tambah dan hapus tugas
-- 🔔 Notifikasi otomatis
-- ☁️ Sinkronisasi ke cloud
 
 ## ⚙️ Cara Menggunakan
-```bash
-git clone https://github.com/username/repo-name.git
-cd repo-name
-npm install
-npm start
